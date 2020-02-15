@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "eventTypeId": 1,
+        "from": "2020-01-04 00:00:00",
+        "to": "2020-01-04 23:59:59",
+        "name": "Quadrantids",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 2,
+        "eventTypeId": 2,
+        "from": "2020-01-10 18:07:00",
+        "to": "2020-01-10 22:12:59",
+        "name": "Half-light lunar eclipse",
+        "worlwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 3,
+        "eventTypeId": 3,
+        "from": "2020-01-27 00:00:00",
+        "to": "2020-01-27 23:59:59",
+        "name": "Rapprochement of Venus with Neptune",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 4,
+        "eventTypeId": 4,
+        "from": "2020-02-18 00:00:00",
+        "to": "2020-02-18 23:59:59",
+        "name": "The Moon hides Mars",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 5,
+        "eventTypeId": 4,
+        "from": "2020-02-19 00:00:00",
+        "to": "2020-02-19 23:59:59",
+        "name": "The Moon hides Jupiter",
+        "worlwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 6,
+        "eventType": 4,
+        "from": "2020-03-18 00:00:00",
+        "to": "2020-03-18 23:59:59",
+        "name": "The Moon hides Mars",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    }
+]
