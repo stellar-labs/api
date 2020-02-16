@@ -58,5 +58,15 @@
         "worldwide": false,
         "sourceId": 1,
         "requiresBinoculars": false
+    },
+    {
+        "id": 7,
+        "eventType": 1,
+        "from": "2020-04-22 00:00:00",
+        "to": "2020-04-22 23:59:00",
+        "name": "April Lyrids",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
     }
 ]

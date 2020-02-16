@@ -70,5 +70,33 @@
     {
         "eventId": 6,
         "continentId": 5
+    },
+    {
+        "eventId": 7,
+        "continentId": 1
+    },
+    {
+        "eventId": 7,
+        "continentId": 2
+    },
+    {
+        "eventId": 7,
+        "continentId": 3
+    },
+    {
+        "eventId": 7,
+        "continentId": 4
+    },
+    {
+        "eventId": 7,
+        "continentId": 5
+    },
+    {
+        "eventId": 7,
+        "continentId": 6
+    },
+    {
+        "eventId": 7,
+        "continentId": 7
     }
 ]
