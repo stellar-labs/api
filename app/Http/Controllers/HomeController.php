@@ -9,7 +9,7 @@ class HomeController extends Controller {
     public function index(Request $request) {
 		if ($request->wantsJson()) {
 			return collect(Route::getRoutes())->filter(function($route) {
-				return substr($route->uri(), 0, 3) === "api";
+				return substr($route->uri(), 0, 6) === "{lang}";
 			})->map(function($route) {
 				return [
 					"url" => $route->uri(),
