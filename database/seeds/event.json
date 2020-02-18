@@ -68,5 +68,35 @@
         "worldwide": true,
         "sourceId": 1,
         "requiresBinoculars": false
+    },
+    {
+        "id": 8,
+        "eventType": 5,
+        "from": "2020-05-06 00:00:00",
+        "to": "2020-05-06 23:59:59",
+        "name": "Passage of the comet P/2017 T2 Panstarrs at perihelion",
+        "worlwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": true
+    },
+    {
+        "id": 9,
+        "eventType": 2,
+        "from": "2020-06-05 00:00:00",
+        "to": "2020-06-05 23:59:59",
+        "name": "Half-light lunar eclipse",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 10,
+        "eventType": 2,
+        "from": "2020-06-21 00:00:00",
+        "to": "2020-06-21 23:59:59",
+        "name": "Annular eclipse of the Sun for the summer solstice",
+        "worlwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
     }
 ]
