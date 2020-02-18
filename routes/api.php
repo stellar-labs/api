@@ -18,9 +18,12 @@ use Illuminate\Http\Request;
 // });
 
 Route::prefix("{lang}")->group(function() {
-	Route::apiResource("event-type", "EventTypeController")->only(["index"]);
-	Route::apiResource("event", "EventController")->only(["index"]);
-	Route::apiResource("continent", "ContinentController")->only(["index"]);
+	Route::apiResource("event-type", EventTypeController::class)->only(["index", "show"]);
+	Route::apiResource("event-type.event", EventTypeEventController::class)->only(["index"]);
+	Route::apiResource("event", EventController::class)->only(["index", "show"]);
+	Route::apiResource("event.continent", EventContinentController::class)->only(["index"]);
+	Route::apiResource("continent", ContinentController::class)->only(["index"]);
+	Route::apiResource("continent.event", ContinentEventController::class)->only(["index"]);
 });
 
 Route::get("/", "HomeController@index");

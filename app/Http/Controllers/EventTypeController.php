@@ -15,5 +15,15 @@ class EventTypeController extends Controller {
 		}
 
 		return abort(403);
-    }
+	}
+	
+	public function show(Request $request, string $lang, EventType $eventType) {
+		if ($request->wantsJson()) {
+			App::setLocale($lang);
+
+			return $eventType;
+		}
+
+		return abort(403);
+	}
 }
