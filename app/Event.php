@@ -26,18 +26,6 @@ class Event extends Model {
 		return $this->belongsTo(Source::class, Source::FOREIGN_KEY);
 	}
 
-	public function scopeFromContinent(Builder $builder, int $continentId): Builder {
-		return $builder->whereHas("continents", function($query) use ($continentId) {
-			return $query->where("id", $continentId);
-		});
-	}
-
-	public function scopeOfType(Builder $builder, int $eventTypeId): Builder {
-		return $builder->whereHas("type", function($query) use ($eventTypeId) {
-			return $query->where("id", $eventTypeId);
-		});
-	}
-
 	public function toArray(): array {
 		$this->name = __($this->name);
 
