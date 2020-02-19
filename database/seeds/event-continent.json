@@ -194,5 +194,401 @@
     {
         "eventId": 12,
         "continentId": 3
+    },
+    {
+        "eventId": 13,
+        "continentId": 1
+    },
+    {
+        "eventId": 13,
+        "continentId": 2
+    },
+    {
+        "eventId": 13,
+        "continentId": 3
+    },
+    {
+        "eventId": 13,
+        "continentId": 4
+    },
+    {
+        "eventId": 13,
+        "continentId": 5
+    },
+    {
+        "eventId": 13,
+        "continentId": 6
+    },
+    {
+        "eventId": 13,
+        "continentId": 7
+    },
+    {
+        "eventId": 14,
+        "continentId": 1
+    },
+    {
+        "eventId": 14,
+        "continentId": 2
+    },
+    {
+        "eventId": 14,
+        "continentId": 3
+    },
+    {
+        "eventId": 14,
+        "continentId": 4
+    },
+    {
+        "eventId": 14,
+        "continentId": 5
+    },
+    {
+        "eventId": 14,
+        "continentId": 6
+    },
+    {
+        "eventId": 14,
+        "continentId": 7
+    },
+    {
+        "eventId": 15,
+        "continentId": 1
+    },
+    {
+        "eventId": 15,
+        "continentId": 2
+    },
+    {
+        "eventId": 15,
+        "continentId": 3
+    },
+    {
+        "eventId": 15,
+        "continentId": 4
+    },
+    {
+        "eventId": 15,
+        "continentId": 5
+    },
+    {
+        "eventId": 15,
+        "continentId": 6
+    },
+    {
+        "eventId": 15,
+        "continentId": 7
+    },
+    {
+        "eventId": 16,
+        "continentId": 5
+    },
+    {
+        "eventId": 17,
+        "continentId": 1
+    },
+    {
+        "eventId": 17,
+        "continentId": 2
+    },
+    {
+        "eventId": 17,
+        "continentId": 3
+    },
+    {
+        "eventId": 17,
+        "continentId": 4
+    },
+    {
+        "eventId": 17,
+        "continentId": 5
+    },
+    {
+        "eventId": 17,
+        "continentId": 6
+    },
+    {
+        "eventId": 17,
+        "continentId": 7
+    },
+    {
+        "eventId": 18,
+        "continentId": 5
+    },
+    {
+        "eventId": 19,
+        "continentId": 1
+    },
+    {
+        "eventId": 19,
+        "continentId": 2
+    },
+    {
+        "eventId": 19,
+        "continentId": 3
+    },
+    {
+        "eventId": 19,
+        "continentId": 4
+    },
+    {
+        "eventId": 19,
+        "continentId": 5
+    },
+    {
+        "eventId": 19,
+        "continentId": 6
+    },
+    {
+        "eventId": 19,
+        "continentId": 7
+    },
+    {
+        "eventId": 20,
+        "continentId": 1
+    },
+    {
+        "eventId": 20,
+        "continentId": 2
+    },
+    {
+        "eventId": 20,
+        "continentId": 3
+    },
+    {
+        "eventId": 20,
+        "continentId": 4
+    },
+    {
+        "eventId": 20,
+        "continentId": 5
+    },
+    {
+        "eventId": 20,
+        "continentId": 6
+    },
+    {
+        "eventId": 20,
+        "continentId": 7
+    },
+    {
+        "eventId": 21,
+        "continentId": 5
+    },
+    {
+        "eventId": 22,
+        "continentId": 1
+    },
+    {
+        "eventId": 22,
+        "continentId": 2
+    },
+    {
+        "eventId": 22,
+        "continentId": 3
+    },
+    {
+        "eventId": 22,
+        "continentId": 4
+    },
+    {
+        "eventId": 22,
+        "continentId": 5
+    },
+    {
+        "eventId": 22,
+        "continentId": 6
+    },
+    {
+        "eventId": 22,
+        "continentId": 7
+    },
+    {
+        "eventId": 23,
+        "continentId": 1
+    },
+    {
+        "eventId": 23,
+        "continentId": 2
+    },
+    {
+        "eventId": 23,
+        "continentId": 3
+    },
+    {
+        "eventId": 23,
+        "continentId": 4
+    },
+    {
+        "eventId": 23,
+        "continentId": 5
+    },
+    {
+        "eventId": 23,
+        "continentId": 6
+    },
+    {
+        "eventId": 23,
+        "continentId": 7
+    },
+    {
+        "eventId": 24,
+        "continentId": 1
+    },
+    {
+        "eventId": 24,
+        "continentId": 2
+    },
+    {
+        "eventId": 24,
+        "continentId": 3
+    },
+    {
+        "eventId": 24,
+        "continentId": 4
+    },
+    {
+        "eventId": 24,
+        "continentId": 5
+    },
+    {
+        "eventId": 24,
+        "continentId": 6
+    },
+    {
+        "eventId": 24,
+        "continentId": 7
+    },
+    {
+        "eventId": 25,
+        "continentId": 1
+    },
+    {
+        "eventId": 25,
+        "continentId": 2
+    },
+    {
+        "eventId": 25,
+        "continentId": 3
+    },
+    {
+        "eventId": 25,
+        "continentId": 4
+    },
+    {
+        "eventId": 25,
+        "continentId": 5
+    },
+    {
+        "eventId": 25,
+        "continentId": 6
+    },
+    {
+        "eventId": 25,
+        "continentId": 7
+    },
+    {
+        "eventId": 26,
+        "continentId": 1
+    },
+    {
+        "eventId": 26,
+        "continentId": 2
+    },
+    {
+        "eventId": 26,
+        "continentId": 3
+    },
+    {
+        "eventId": 26,
+        "continentId": 4
+    },
+    {
+        "eventId": 26,
+        "continentId": 5
+    },
+    {
+        "eventId": 26,
+        "continentId": 6
+    },
+    {
+        "eventId": 26,
+        "continentId": 7
+    },
+    {
+        "eventId": 27,
+        "continentId": 2
+    },
+    {
+        "eventId": 27,
+        "continentId": 4
+    },
+    {
+        "eventId": 27,
+        "continentId": 5
+    },
+    {
+        "eventId": 27,
+        "continentId": 7
+    },
+    {
+        "eventId": 28,
+        "continentId": 1
+    },
+    {
+        "eventId": 28,
+        "continentId": 2
+    },
+    {
+        "eventId": 28,
+        "continentId": 3
+    },
+    {
+        "eventId": 28,
+        "continentId": 4
+    },
+    {
+        "eventId": 28,
+        "continentId": 5
+    },
+    {
+        "eventId": 28,
+        "continentId": 6
+    },
+    {
+        "eventId": 28,
+        "continentId": 7
+    },
+    {
+        "eventId": 29,
+        "continentId": 5
+    },
+    {
+        "eventId": 30,
+        "continentId": 1
+    },
+    {
+        "eventId": 30,
+        "continentId": 2
+    },
+    {
+        "eventId": 30,
+        "continentId": 3
+    },
+    {
+        "eventId": 30,
+        "continentId": 4
+    },
+    {
+        "eventId": 30,
+        "continentId": 5
+    },
+    {
+        "eventId": 30,
+        "continentId": 6
+    },
+    {
+        "eventId": 30,
+        "continentId": 7
     }
 ]

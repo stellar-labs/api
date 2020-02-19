@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "eventType": 4,
+        "eventTypeId": 4,
         "from": "2020-03-18 00:00:00",
         "to": "2020-03-18 23:59:59",
         "name": "The Moon hides Mars",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "eventType": 1,
+        "eventTypeId": 1,
         "from": "2020-04-22 00:00:00",
         "to": "2020-04-22 23:59:00",
         "name": "April Lyrids",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "eventType": 5,
+        "eventTypeId": 5,
         "from": "2020-05-06 00:00:00",
         "to": "2020-05-06 23:59:59",
         "name": "Passage of the comet P/2017 T2 Panstarrs at perihelion",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "eventType": 2,
+        "eventTypeId": 2,
         "from": "2020-06-05 00:00:00",
         "to": "2020-06-05 23:59:59",
         "name": "Half-light lunar eclipse",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "eventType": 2,
+        "eventTypeId": 2,
         "from": "2020-06-21 00:00:00",
         "to": "2020-06-21 23:59:59",
         "name": "Annular eclipse of the Sun for the summer solstice",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "eventType": 5,
+        "eventTypeId": 5,
         "from": "2020-06-26 00:00:00",
         "to": "2020-06-26 23:59:59",
         "name": "Perihelion of the comet 2P/Encke",
@@ -116,6 +116,186 @@
         "to": "2020-07-05 00:00:00",
         "name": "Third lunar-penombral eclipse",
         "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 13,
+        "eventTypeId": 9,
+        "from": "2020-07-14 00:00:00",
+        "to": "2020-07-14 23:59:59",
+        "name": "Jupiter opposition",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 14,
+        "eventTypeId": 9,
+        "from": "2020-07-15 00:00:00",
+        "to": "2020-07-15 23:59:59",
+        "name": "Pluto's opposition",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 15,
+        "eventTypeId": 9,
+        "from": "2020-07-20 00:00:00",
+        "to": "2020-07-20 23:59:59",
+        "name": "Saturn opposition",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 16,
+        "eventTypeId": 4,
+        "from": "2020-08-09 00:00:00",
+        "to": "2020-08-09 23:59:59",
+        "name": "Occultation of Mars by the Moon",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 17,
+        "eventTypeId": 1,
+        "from": "2020-08-12 00:00:00",
+        "to": "2020-08-13 23:59:59",
+        "name": "The Perseids",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 18,
+        "eventTypeId": 4,
+        "from": "2020-09-06 00:00:00",
+        "to": "2020-09-06 23:59:59",
+        "name": "The Moon passes in front of Mars",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 19,
+        "eventTypeId": 9,
+        "from": "2020-09-11 00:00:00",
+        "to": "2020-09-11 23:59:59",
+        "name": "Neptune's opposition",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 20,
+        "eventTypeId": 5,
+        "from": "2020-09-26 00:00:00",
+        "to": "2020-09-26 23:59:59",
+        "name": "Perihelion of Comet 88P/Howell",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": true
+    },
+    {
+        "id": 21,
+        "eventTypeId": 4,
+        "from": "2020-10-03 00:00:00",
+        "to": "2020-10-03 23:59:59",
+        "name": "Occultation of Mars by the Moon",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 22,
+        "eventTypeId": 1,
+        "from": "2020-10-10 00:00:00",
+        "to": "2020-10-10 23:59:59",
+        "name": "The Taurides",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 23,
+        "eventTypeId": 9,
+        "from": "2020-10-13 00:00:00",
+        "to": "2020-10-13 23:59:59",
+        "name": "Opposition of Mars",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 24,
+        "eventTypeId": 1,
+        "from": "2020-10-21 00:00:00",
+        "to": "2020-10-21 23:59:59",
+        "name": "The Orionides",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 25,
+        "eventTypeId": 9,
+        "from": "2020-10-31 00:00:00",
+        "to": "2020-10-31 23:59:59",
+        "name": "Uranus opposition",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 26,
+        "eventTypeId": 1,
+        "from": "2020-11-17 00:00:00",
+        "to": "2020-11-17 23:59:59",
+        "name": "The Leonids",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 27,
+        "eventTypeId": 2,
+        "from": "2020-11-30 00:00:00",
+        "to": "2020-11-30 23:59:59",
+        "name": "Fourth lunar-penumbral eclipse",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 28,
+        "eventTypeId": 1,
+        "from": "2020-12-13 00:00:00",
+        "to": "2020-12-14 23:59:59",
+        "name": "The Geminids",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 29,
+        "eventTypeId": 2,
+        "from": "2020-12-14 00:00:00",
+        "to": "2020-12-14 23:59:59",
+        "name": "Total eclipse",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 30,
+        "eventTypeId": 3,
+        "from": "2020-12-21 00:00:00",
+        "to": "2020-12-21 23:59:59",
+        "name": "Jupiter and Saturn are close to each other above the horizon",
+        "worldwide": true,
         "sourceId": 1,
         "requiresBinoculars": false
     }
