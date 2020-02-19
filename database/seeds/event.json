@@ -98,5 +98,25 @@
         "worlwide": false,
         "sourceId": 1,
         "requiresBinoculars": false
+    },
+    {
+        "id": 11,
+        "eventType": 5,
+        "from": "2020-06-26 00:00:00",
+        "to": "2020-06-26 23:59:59",
+        "name": "Perihelion of the comet 2P/Encke",
+        "worldwide": true,
+        "sourceId": 1,
+        "requiresBinoculars": true
+    },
+    {
+        "id": 12,
+        "eventTypeId": 2,
+        "from": "2020-07-05 00:00:00",
+        "to": "2020-07-05 00:00:00",
+        "name": "Third lunar-penombral eclipse",
+        "worldwide": false,
+        "sourceId": 1,
+        "requiresBinoculars": false
     }
 ]
