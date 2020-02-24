@@ -38,5 +38,9 @@
     {
         "id": 10,
         "name": "full moon"
+    },
+    {
+        "id": 11,
+        "name": "new moon"
     }
 ]

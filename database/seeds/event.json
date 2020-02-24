@@ -2,11 +2,11 @@
     {
         "id": 1,
         "eventTypeId": 1,
-        "from": "2020-01-04 00:00:00",
+        "from": "2020-01-03 00:00:00",
         "to": "2020-01-04 23:59:59",
         "name": "Quadrantids",
         "worldwide": true,
-        "sourceId": 1,
+        "sourceId": 2,
         "requiresBinoculars": false
     },
     {
@@ -297,6 +297,46 @@
         "name": "Jupiter and Saturn are close to each other above the horizon",
         "worldwide": true,
         "sourceId": 1,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 31,
+        "eventTypeId": 10,
+        "from": "2020-01-10 19:23:00",
+        "to": "2020-01-10 19:23:59",
+        "name": "Full moon",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 32,
+        "eventTypeId": 11,
+        "from": "2020-01-24 21:44:00",
+        "to": "2020-01-24 21:44:59",
+        "name": "New moon",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 33,
+        "eventTypeId": 6,
+        "from": "2020-02-09 07:34:00",
+        "to": "2020-02-09 07:34:59",
+        "name": "Full moon, supermoon",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 34,
+        "eventTypeId": 3,
+        "from": "2020-02-10 00:00:00",
+        "to": "2020-02-10 23:59:59",
+        "name": "Mercury at greatest eastern elongation",
+        "worldwide": true,
+        "sourceId": 2,
         "requiresBinoculars": false
     }
 ]
