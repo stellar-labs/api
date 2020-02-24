@@ -20,7 +20,7 @@
         "name": "comet passing"
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "supermoon"
     },
     {
@@ -34,5 +34,9 @@
     {
         "id": 9,
         "name": "planets opposition"
+    },
+    {
+        "id": 10,
+        "name": "full moon"
     }
 ]
