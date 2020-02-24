@@ -702,5 +702,89 @@
     {
         "eventId": 34,
         "continentId": 7
+    },
+    {
+        "eventId": 35,
+        "continentId": 1
+    },
+    {
+        "eventId": 35,
+        "continentId": 2
+    },
+    {
+        "eventId": 35,
+        "continentId": 3
+    },
+    {
+        "eventId": 35,
+        "continentId": 4
+    },
+    {
+        "eventId": 35,
+        "continentId": 5
+    },
+    {
+        "eventId": 35,
+        "continentId": 6
+    },
+    {
+        "eventId": 35,
+        "continentId": 7
+    },
+    {
+        "eventId": 36,
+        "continentId": 1
+    },
+    {
+        "eventId": 36,
+        "continentId": 2
+    },
+    {
+        "eventId": 36,
+        "continentId": 3
+    },
+    {
+        "eventId": 36,
+        "continentId": 4
+    },
+    {
+        "eventId": 36,
+        "continentId": 5
+    },
+    {
+        "eventId": 36,
+        "continentId": 6
+    },
+    {
+        "eventId": 36,
+        "continentId": 7
+    },
+    {
+        "eventId": 37,
+        "continentId": 1
+    },
+    {
+        "eventId": 37,
+        "continentId": 2
+    },
+    {
+        "eventId": 37,
+        "continentId": 3
+    },
+    {
+        "eventId": 37,
+        "continentId": 4
+    },
+    {
+        "eventId": 37,
+        "continentId": 5
+    },
+    {
+        "eventId": 37,
+        "continentId": 6
+    },
+    {
+        "eventId": 37,
+        "continentId": 7
     }
 ]

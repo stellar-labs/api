@@ -338,5 +338,35 @@
         "worldwide": true,
         "sourceId": 2,
         "requiresBinoculars": false
+    },
+    {
+        "id": 35,
+        "eventTypeId": 11,
+        "from": "2020-02-23 15:33:00",
+        "to": "2020-02-23 15:33:59",
+        "name": "New moon",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 36,
+        "eventTypeId": 6,
+        "from": "2020-03-09 17:48:00",
+        "to": "2020-03-09 17:48:59",
+        "name": "Full moon, supermoon",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
+    },
+    {
+        "id": 37,
+        "eventTypeId": 7,
+        "from": "2020-03-20 03:50:00",
+        "to": "2020-03-20 03:50:59",
+        "name": "March equinox",
+        "worldwide": true,
+        "sourceId": 2,
+        "requiresBinoculars": false
     }
 ]
